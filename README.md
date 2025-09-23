@@ -27,11 +27,12 @@ Each file contains:
 
 ## 🚀 Progress Tracker
 
-| Day | Problem | Category | Status |
-|-----|----------|----------|--------|
-| 1   | Pending...| –  | ⏳  |
-| 2   | Pending... | –  | ⏳ |
-| 3   | Pending... | – | ⏳ |
+| Day | Problem | Category | Status | GitHub Link |
+|-----|---------|----------|--------|-------------|
+| 1   | Merge Strings Alternately | Arrays | ✅ Completed | [Link](arrays/merge-strings-alternately.py) |
+| 2   | Pending | – | ⏳ Not Started | – |
+| 3   | Pending | – | ⏳ Not Started | – |
+
 
 ---
 
