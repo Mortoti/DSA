@@ -29,8 +29,8 @@ Each file contains:
 
 | Day | Problem                  | Category | Status        | GitHub Link                                     |
 |-----|---------------------------|----------|---------------|------------------------------------------------|
-| 1   | Merge Strings Alternately | Arrays   | ✅ Completed  | [Link](arrays and strings/merge-strings-alternately.py)    |
-| 2   | Find the Difference       | Strings  | ✅ Completed  | [Link](arrays and strings/find-the-difference.py)         |
+| 1   | Merge Strings Alternately | Arrays   | ✅ Completed  | [Link](arrays-and-strings/merge-strings-alternately.py)    |
+| 2   | Find the Difference       | Strings  | ✅ Completed  | [Link](arrays-and-strings/find-the-difference.py)         |
 | 3   | Pending                   | –        | ⏳ Not Started| –                                              |
 
 
