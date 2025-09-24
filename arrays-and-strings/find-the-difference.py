@@ -1,6 +1,6 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        # XOR all chars in s and t, pairs cancel out, leaving the extra char
+        # XOR all chars in s and t, pairs cancel out, leaving the only extra char
 
         result = 0
         for letter in t + s:
