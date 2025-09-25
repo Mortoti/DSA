@@ -3,6 +3,9 @@
 This repository documents my journey of solving **one DSA problem every day**.  
 The goal is to strengthen my problem-solving, coding efficiency, and algorithmic thinking through consistent practice.
 
+📅 **Started on:** 23rd September 2025  
+🔥 **Current Streak:** 3 days  
+
 ---
 
 ## 📌 Structure
@@ -27,13 +30,12 @@ Each file contains:
 
 ## 🚀 Progress Tracker
 
-| Day | Problem                  | Category | Status        | GitHub Link                                     |
-|-----|---------------------------|----------|---------------|------------------------------------------------|
-| 1   | Merge Strings Alternately | Arrays   | ✅ Completed  | [Link](arrays-and-strings/merge-strings-alternately.py)    |
-| 2   | Find the Difference       | Strings  | ✅ Completed  | [Link](arrays-and-strings/find-the-difference.py)         |
-| 3   | Pending                   | –        | ⏳ Not Started| –                                              |
-
-
+| Day | Problem                                | Category | Status        | GitHub Link                                                   |
+|-----|-----------------------------------------|----------|---------------|--------------------------------------------------------------|
+| 1   | Merge Strings Alternately               | Arrays   | ✅ Completed  | [Link](arrays-and-strings/merge-strings-alternately.py)      |
+| 2   | Find the Difference                     | Strings  | ✅ Completed  | [Link](arrays-and-strings/find-the-difference.py)            |
+| 3   | Find the Index of the First Occurrence  | Strings  | ✅ Completed  | [Link](arrays-and-strings/index-of-first-occurrence.py)      |
+| 4   | Pending                                 | –        | ⏳ Not Started| –                                                            |
 
 ---
 
@@ -47,7 +49,7 @@ Each file contains:
 ## 🛠️ Tech Stack
 - **Language**: Python 3
 - **Platform**: Local setup + GitHub
-- **Editor**:  VS Code
+- **Editor**: VS Code
 
 ---
 
