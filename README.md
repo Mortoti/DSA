@@ -39,7 +39,7 @@ Each file contains:
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals
 - Solve at least **1 problem per day**.
 - Cover all major data structures and algorithms.
 - Build a strong foundation for **backend development** and **technical interviews**.
