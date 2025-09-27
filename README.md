@@ -4,7 +4,7 @@ This repository documents my journey of solving **one DSA problem every day**.
 The goal is to strengthen my problem-solving, coding efficiency, and algorithmic thinking through consistent practice.
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 4 days  
+🔥 **Current Streak:** 5 days  
 
 ---
 
@@ -35,7 +35,8 @@ Each file contains:
 | 1   | Merge Strings Alternately               | Arrays   | ✅ Completed  | [Link](arrays-and-strings/merge-strings-alternately.py)      |
 | 2   | Find the Difference                     | Strings  | ✅ Completed  | [Link](arrays-and-strings/find-the-difference.py)            |
 | 3   | Find the Index of the First Occurrence  | Strings  | ✅ Completed  | [Link](arrays-and-strings/index-of-first-occurrence.py)      |
-| 4   | Valid Anagram                           | Strings  | ✅ Completed  | [Link](arrays-and-strings/valid-anagram.py)                 |
+| 4   | Valid Anagram                           | Strings  | ✅ Completed  | [Link](arrays-and-strings/valid-anagram.py)                  |
+| 5   | Repeated Substring Pattern              | Strings  | ✅ Completed  | [Link](arrays-and-strings/repeated-substring-pattern.py)     |
 
 ---
 
