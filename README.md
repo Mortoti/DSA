@@ -3,7 +3,8 @@
 This repository documents my journey of solving **one DSA problem every day**.  
 The goal is to strengthen my problem-solving, coding efficiency, and algorithmic thinking through consistent practice.
 
-🔥 **Github Global Streak:**![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
+🔥 **Github Global Streak:**
+![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
 
 📅 **Started on:** 23rd September 2025  
 🔥 **Current Streak:** 7 days  
