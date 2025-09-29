@@ -4,7 +4,7 @@ This repository documents my journey of solving **one DSA problem every day**.
 The goal is to strengthen my problem-solving, coding efficiency, and algorithmic thinking through consistent practice.
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 6 days  
+🔥 **Current Streak:** 7 days  
 
 ---
 
@@ -38,6 +38,7 @@ Each file contains:
 | 4   | Valid Anagram                           | Strings  | ✅ Completed  | [Link](arrays-and-strings/valid-anagram.py)                  |
 | 5   | Repeated Substring Pattern              | Strings  | ✅ Completed  | [Link](arrays-and-strings/repeated-substring-pattern.py)     |
 | 6   | Move Zeroes                             | Arrays   | ✅ Completed  | [Link](arrays-and-strings/move-zeroes.py)                    |
+| 7   | Plus One                                | Arrays   | ✅ Completed  | [Link](arrays-and-strings/plus-one.py)                       |
 
 ---
 
