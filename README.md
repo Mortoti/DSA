@@ -8,7 +8,7 @@ The goal is to strengthen my problem-solving, coding efficiency, and algorithmic
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 9 days
+🔥 **Current Streak:** 10 days
 
 
 ---
@@ -44,8 +44,10 @@ Each file contains:
 | 5   | Repeated Substring Pattern              | Strings  | ✅ Completed  | [Link](arrays-and-strings/repeated-substring-pattern.py)     |
 | 6   | Move Zeroes                             | Arrays   | ✅ Completed  | [Link](arrays-and-strings/move-zeroes.py)                    |
 | 7   | Plus One                                | Arrays   | ✅ Completed  | [Link](arrays-and-strings/plus-one.py)                       |
-| 8   | Sign of the Product of an Array        | Arrays   | ✅ Completed  | [Link](arrays-and-strings/sign-of-the-product-of-an-array.py)|
-| 9   | Can Make Arithmetic Progression        | Arrays   | ✅ Completed  | [Link](arrays-and-strings/can-make-arithmetic-progression.py) |
+| 8   | Sign of the Product of an Array         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/sign-of-the-product-of-an-array.py)|
+| 9   | Can Make Arithmetic Progression         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/can-make-arithmetic-progression.py)|
+| 10  | Monotonic Array                         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/monotonic-array.py)                |
+
 
 
 
