@@ -8,7 +8,7 @@ The goal is to strengthen my problem-solving, coding efficiency, and algorithmic
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 10 days
+🔥 **Current Streak:** 11 days
 
 
 ---
