@@ -13,12 +13,12 @@ class Solution:
         num = 0
         prev = 0
         for letter in reversed(s):
-            value = dictionary[letter]
-            if value < prev:
-                num -= value
+            number = dictionary[letter]
+            if number < prev:
+                num -= number
                
             else:
-                num += value
-            prev = value
+                num += number
+            prev = number
                 
         return num
