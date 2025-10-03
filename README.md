@@ -47,6 +47,7 @@ Each file contains:
 | 8   | Sign of the Product of an Array         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/sign-of-the-product-of-an-array.py)|
 | 9   | Can Make Arithmetic Progression         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/can-make-arithmetic-progression.py)|
 | 10  | Monotonic Array                         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/monotonic-array.py)                |
+| 11  | Roman to Integer                        | Strings  | ✅ Completed  | [Link](arrays-and-strings/roman-to-integer.py)               |
 
 
 
