@@ -8,7 +8,7 @@ The goal is to strengthen my problem-solving, coding efficiency, and algorithmic
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 11 days
+🔥 **Current Streak:** 12 days
 
 
 ---
@@ -48,6 +48,8 @@ Each file contains:
 | 9   | Can Make Arithmetic Progression         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/can-make-arithmetic-progression.py)|
 | 10  | Monotonic Array                         | Arrays   | ✅ Completed  | [Link](arrays-and-strings/monotonic-array.py)                |
 | 11  | Roman to Integer                        | Strings  | ✅ Completed  | [Link](arrays-and-strings/roman-to-integer.py)               |
+| 12  | Length of Last Word                      | Strings  | ✅ Completed  | [Link](arrays-and-strings/length-of-last-word.py)            |
+
 
 
 
