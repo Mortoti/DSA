@@ -8,7 +8,7 @@ The goal is to strengthen my problem-solving, coding efficiency, and algorithmic
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true)
 
 📅 **Started on:** 23rd September 2025  
-🔥 **Current Streak:** 13 days
+🔥 **Current Streak:** 1 day
 
 
 ---
@@ -50,7 +50,12 @@ Each file contains:
 | 11  | Roman to Integer                        | Strings  | ✅ Completed  | [Link](arrays-and-strings/roman-to-integer.py)               |
 | 12  | Length of Last Word                     | Strings  | ✅ Completed  | [Link](arrays-and-strings/length-of-last-word.py)            |
 | 13  | To Lower Case                           | Strings  | ✅ Completed  | [Link](arrays-and-strings/to-lower-case.py)                  |
+| 14  | —                                       | —        | ❌ Missed Day | —                                                            |
+| 15  | Baseball Game                           | Stack    | ✅ Completed  | [Link](arrays-and-strings/baseball-game.py)                  |
 
+---
+
+💪 *Missed one, but consistency is greater than perfection.*
 
 
 
