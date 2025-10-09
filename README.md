@@ -32,7 +32,6 @@ Each file contains:
 3. Explanations or notes (where necessary).
 
 ---
-
 ## 🚀 Progress Tracker
 
 | Day | Problem                                | Category | Status        | GitHub Link                                                   |
@@ -52,10 +51,13 @@ Each file contains:
 | 13  | To Lower Case                           | Strings  | ✅ Completed  | [Link](arrays-and-strings/to-lower-case.py)                  |
 | 14  | —                                       | —        | ❌ Missed Day | —                                                            |
 | 15  | Baseball Game                           | Stack    | ✅ Completed  | [Link](arrays-and-strings/baseball-game.py)                  |
+| 16  | —                                       | —        | ❌ Missed Day | —                                                            |
+| 17  | Robot Return to Origin                  | Strings  | ✅ Completed  | [Link](arrays-and-strings/robot-return-to-origin.py)         |
+
 
 ---
 
-💪 *Missed one, but consistency is greater than perfection.*
+💪 *Missed two, but consistency is greater than perfection.*
 
 
 
