@@ -58,7 +58,7 @@ Each file includes:
 | 15  | Baseball Game                           | Stack     | ✅ Completed  | [Link](arrays-and-strings/baseball-game.py)                  |
 | 16  | —                                       | —         | ❌ Missed Day | —                                                            |
 | 17  | Robot Return to Origin                  | Strings   | ✅ Completed  | [Link](arrays-and-strings/robot-return-to-origin.py)         |
-| 18  | Count Odd Numbers in an Interval Range  | Math      | ✅ Completed  | [Link](math/count-odd-numbers-in-an-interval-range.py)       |
+| 18  | Count Odd Numbers in an Interval Range  | Math      | ✅ Completed  | [Link](math/count-odd-numbers-in-an-interval.py)       |
 
 ---
 
