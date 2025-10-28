@@ -3,9 +3,9 @@
 This repository documents my journey of solving **one DSA problem every day**.  
 The goal is to strengthen my problem-solving, coding efficiency, and algorithmic thinking through consistent practice.
 
-```text
-Had an issue so I missed like one to two weeks,
-but I will continue from Day 18.
+
+**Had an issue so I missed like one to two weeks,
+but I will continue from Day 18.**
 
 🔥 **GitHub Global Streak:**  
 
