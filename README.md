@@ -59,6 +59,7 @@ Each file includes:
 | 16  | —                                       | —         | ❌ Missed Day | —                                                            |
 | 17  | Robot Return to Origin                  | Strings   | ✅ Completed  | [Link](arrays-and-strings/robot-return-to-origin.py)         |
 | 18  | Count Odd Numbers in an Interval Range  | Math      | ✅ Completed  | [Link](arrays-and-strings/count-odd-numbers-in-an-interval-range.py)       |
+| 19  | Average Salary Excluding the Min & Max  | Math      | ✅ Completed  | [Link](arrays-and-strings/average-salary-excluding-min-max.py)            |
 
 ---
 
@@ -86,4 +87,4 @@ Every file reflects growth, not just solutions.
 
 ---
 
-🔥 **Day 18 locked in. Keep going — don’t lose momentum.**
+🔥 **Day 19 locked in. Keep pushing forward — consistency compounds.**
